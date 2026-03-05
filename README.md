@@ -24,7 +24,7 @@ WellWired is a practical guide to AI for people who want to use it, not study it
 
 No breathless predictions. No techie rabbit holes. Just clear, honest explanations of the tools that are actually worth your time, and how to get something useful out of them.
 
-If you've ever opened ChatGPT, felt a bit lost, and quietly closed the tab — WellWired is for you.
+If you've ever opened ChatGPT, felt a bit lost, and quietly closed the tab, WellWired is for you.
 
 ---
 
